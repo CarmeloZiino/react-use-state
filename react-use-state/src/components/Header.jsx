@@ -3,7 +3,7 @@ const Header = () => {
   return (
     
     <header>
-        <h1>Learn Web Development</h1>
+        <h1 className="row">Learn Web Development</h1>
     </header>
 
   );

@@ -1,12 +1,11 @@
+import BtnLanguages from "./BtnLanguages";
 
 const Main = () => {
     return (
       
       <main>
 
-<button>
-    HTML
-</button>
+      <BtnLanguages />
 
       </main>
   

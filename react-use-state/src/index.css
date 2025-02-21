@@ -1,0 +1,28 @@
+
+
+.btn {
+  width: auto;
+  padding: 3px;
+
+  border: none;
+  background-color: rgb(11, 144, 239);
+  color: white;
+}
+.custom-btn:hover{
+    background-color: orange;
+}
+.custom-btn.active{
+ background-color: orange !important;
+}
+
+.row{
+    justify-content: center;
+}
+
+.block-lang{
+padding: 10px;
+width: 80vw;
+height: 30vh;
+background-color: rgba(172, 172, 172, 0.2);
+border-radius: 20px;
+}
