@@ -38,20 +38,3 @@ const BtnLanguages = () => {
 export default BtnLanguages;
 
 
-/*
-return (
-    <div className="row gap-2 ">
-      {Lang.map((element) => (
-     < >
-          <button onClick={handleAccordion} id={element.id} className="btn btn-primary col-2">
-            {element.title}
-          </button>
-          
-          <div className="container-description">
-          { isOpen && <p> {element.title} </p>}
-          { isOpen && <p> {element.description} </p>}
-            </div>
-     </>
-      ))}
-    </div>  
-*/
